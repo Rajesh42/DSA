@@ -6,6 +6,6 @@
 #### [Day 4 : 3 Sum](https://leetcode.com/problems/3sum/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day4.cpp)
 #### [Day 5 : Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day5.cpp)
 #### [Day 6 : Counting Bits](https://leetcode.com/problems/counting-bits/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day6.cpp)
-#### [Day 7 : Counting Bits](https://leetcode.com/problems/search-insert-position/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day7.cpp)
+#### [Day 7 : Search Insert Position](https://leetcode.com/problems/search-insert-position/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day7.cpp)
 ----
  
