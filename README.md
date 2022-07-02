@@ -7,5 +7,6 @@
 #### [Day 5 : Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day5.cpp)
 #### [Day 6 : Counting Bits](https://leetcode.com/problems/counting-bits/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day6.cpp)
 #### [Day 7 : Search Insert Position](https://leetcode.com/problems/search-insert-position/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day7.cpp)
+#### [Day 8 : Jump Game](https://leetcode.com/problems/jump-game/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day8.cpp)
 ----
  
