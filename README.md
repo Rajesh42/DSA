@@ -9,5 +9,6 @@
 #### [Day 7 : Search Insert Position](https://leetcode.com/problems/search-insert-position/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day7.cpp)
 #### [Day 8 : Jump Game](https://leetcode.com/problems/jump-game/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day8.cpp)
 #### [Day 9 : Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day9.cpp)
+#### [Day 10 : Maximum Subarray](https://leetcode.com/problems/maximum-product-subarray/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day10.cpp)
 ----
  
