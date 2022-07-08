@@ -14,4 +14,5 @@
 #### [Day 12 : Sort Colors](https://leetcode.com/problems/sort-colors/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day12.cpp)
 #### [Day 13 : Majority Element](https://leetcode.com/problems/majority-element/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day13.cpp)
 #### [Day 14 : Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day14.cpp)
+#### [Day 15 : Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day15.cpp)
 ----
