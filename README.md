@@ -18,4 +18,5 @@
 #### [Day 16 : Min Stack](https://leetcode.com/problems/min-stack/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day16.cpp)
 #### [Day 17 : Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day17.cpp)
 #### [Day 18 :  Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day18.cpp)
+#### [Day 19 : Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day19.cpp)
 ----
