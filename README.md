@@ -19,5 +19,4 @@
 #### [Day 17 : Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day17.cpp)
 #### [Day 18 :  Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day18.cpp)
 #### [Day 19 : Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day19.cpp)
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODU0YTBhNmYtYjU3Zi00ZTAwLTk1OGMtNjI0YTA4ZmZhYjU4%40thread.v2/0?context=%7b%22Tid%22%3a%2227e4c168-0323-4463-acad-7e124b566726%22%2c%22Oid%22%3a%22929db9a3-ca56-411c-84f5-9e5fc916504e%22%7d
 ----
