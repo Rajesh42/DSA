@@ -24,4 +24,5 @@
 #### [Day 22 : Target Sum](https://leetcode.com/problems/target-sum/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day22.cpp)
 #### [Day 23 : Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day23.cpp)
 #### [Day 25 : Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day25.cpp)
+#### [Day 27 : Move Zeroes](https://leetcode.com/problems/move-zeroes/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day27.cpp)
 ----
