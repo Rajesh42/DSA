@@ -23,4 +23,5 @@
 #### [Day 21 : Number of Islands](https://leetcode.com/problems/number-of-islands/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day21.cpp)
 #### [Day 22 : Target Sum](https://leetcode.com/problems/target-sum/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day22.cpp)
 #### [Day 23 : Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day23.cpp)
+#### [Day 25 : Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) - [Solution](https://github.com/Rajesh42/DSA/blob/main/Day25.cpp)
 ----
